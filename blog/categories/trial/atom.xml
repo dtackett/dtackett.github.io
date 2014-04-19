@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[frogplague]]></title>
-  <link href="http://dtackett.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Trial | frogplague]]></title>
+  <link href="http://dtackett.github.io/blog/categories/trial/atom.xml" rel="self"/>
   <link href="http://dtackett.github.io/"/>
   <updated>2014-04-18T21:19:11-07:00</updated>
   <id>http://dtackett.github.io/</id>
@@ -22,10 +22,9 @@
 
 <p>Everything must start somewhere.</p>
 
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='clojure'><span class='line'><span class="p">(</span><span class="nb">+ </span><span class="mi">1</span> <span class="mi">2</span><span class="p">)</span>
-</span></code></pre></td></tr></table></div></figure>
-
+<p><code>clojure
+(+ 1 2)
+</code></p>
 
 <p>Does this update now?</p>
 

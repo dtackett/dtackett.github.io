@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://frogplague.com/blog/archives/</loc>
-        <lastmod>2013-12-28T19:39:34-07:00</lastmod>
+        <loc>http://dtackett.github.io/blog/2014/03/02/test/</loc>
+        <lastmod>2014-03-03T21:17:13-07:00</lastmod>
     </url>
     <url>
-        <loc>http://frogplague.com/</loc>
-        <lastmod>2013-12-28T19:39:34-07:00</lastmod>
+        <loc>http://dtackett.github.io/blog/archives/</loc>
+        <lastmod>2014-03-03T21:17:13-07:00</lastmod>
     </url>
     <url>
-        <loc>http://frogplague.com/robots.txt</loc>
+        <loc>http://dtackett.github.io/</loc>
+        <lastmod>2014-03-03T21:17:13-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dtackett.github.io/robots.txt</loc>
         <lastmod>2013-12-28T19:39:34-07:00</lastmod>
     </url>
 </urlset>

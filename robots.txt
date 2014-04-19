@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://frogplague.com/sitemap.xml 
+Sitemap: http://dtackett.github.io/sitemap.xml 
