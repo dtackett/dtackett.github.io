@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Start"
+date: 2014-04-18 21:27:06 -0700
+comments: false
+categories:
+---
+
+Everything must attempt to start somewhere.
+
+<!-- more -->
+
+What is this? What am I doing here?
+
+This is another blog.
+Nothing more and nothing less.
+I only intend for this to be a place to capture and share some of my thoughts and musings.
