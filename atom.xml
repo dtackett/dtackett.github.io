@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[frogplague]]></title>
-  <link href="http://dtackett.github.io/atom.xml" rel="self"/>
-  <link href="http://dtackett.github.io/"/>
-  <updated>2014-04-18T21:19:11-07:00</updated>
-  <id>http://dtackett.github.io/</id>
+  <link href="http://thoughts.frogplague.com/atom.xml" rel="self"/>
+  <link href="http://thoughts.frogplague.com/"/>
+  <updated>2014-04-18T21:43:30-07:00</updated>
+  <id>http://thoughts.frogplague.com/</id>
   <author>
     <name><![CDATA[Devon Tackett]]></name>
     <email><![CDATA[frogplague@gmail.com]]></email>
@@ -14,22 +14,20 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Test]]></title>
-    <link href="http://dtackett.github.io/blog/2014/03/02/test/"/>
-    <updated>2014-03-02T19:25:05-07:00</updated>
-    <id>http://dtackett.github.io/blog/2014/03/02/test</id>
-    <content type="html"><![CDATA[<h1>Start</h1>
+    <title type="html"><![CDATA[Start]]></title>
+    <link href="http://thoughts.frogplague.com/blog/2014/04/18/start/"/>
+    <updated>2014-04-18T21:27:06-07:00</updated>
+    <id>http://thoughts.frogplague.com/blog/2014/04/18/start</id>
+    <content type="html"><![CDATA[<p>Everything must attempt to start somewhere.</p>
 
-<p>Everything must start somewhere.</p>
-
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='clojure'><span class='line'><span class="p">(</span><span class="nb">+ </span><span class="mi">1</span> <span class="mi">2</span><span class="p">)</span>
-</span></code></pre></td></tr></table></div></figure>
+<!-- more -->
 
 
-<p>Does this update now?</p>
+<p>What is this? What am I doing here?</p>
 
-<p>I don&rsquo;t know if I really need the distraction free mode. I&rsquo;m not super impressed by this.</p>
+<p>This is another blog.
+Nothing more and nothing less.
+I only intend for this to be a place to capture and share some of my thoughts and musings.</p>
 ]]></content>
   </entry>
   
