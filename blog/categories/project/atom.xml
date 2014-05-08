@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[frogplague]]></title>
-  <link href="http://thoughts.frogplague.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Project | frogplague]]></title>
+  <link href="http://thoughts.frogplague.com/blog/categories/project/atom.xml" rel="self"/>
   <link href="http://thoughts.frogplague.com/"/>
   <updated>2014-05-08T07:51:09-07:00</updated>
   <id>http://thoughts.frogplague.com/</id>
@@ -29,24 +29,6 @@
 <p>Now I don&rsquo;t have much of a game to show at this moment. The basics of a 2d platformed are there. It isn&rsquo;t exciting or novel in any way but I have made progress. I decided to follow a <a href="http://www.chris-granger.com/2012/12/11/anatomy-of-a-knockout/">Component Entity System</a> and I&rsquo;ve been enjoying it. I know there are several Component Entity Systems out there. Even a few of them are in Clojure. In my defense I could not find a Clojure based solution when I first started. Granted there are some out now that are certainly more complete than what I have written. Even if my solution will not be used (or even seen) by anyone else I am getting value out of building it for myself. My end goal wasn&rsquo;t so much to make the game as much as it was to gain some experience in building a functional project. Quite the departure from where I originally started.</p>
 
 <p>I have broken down my work into the game itself <a href="http://github.com/dtackett/sivinolk">Sivinolk</a>, my Component Entity System <a href="http://github.com/dtackett/vyrlynd">Vyrlynd</a> and a crude input library <a href="http://github.com/dtackett/clinp">Clinp</a>. I intend to reflect a bit on my tilts at the windmills on these efforts in the future. For now it seems worth noting that they exist.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Start]]></title>
-    <link href="http://thoughts.frogplague.com/blog/2014/04/18/start/"/>
-    <updated>2014-04-18T21:27:06-07:00</updated>
-    <id>http://thoughts.frogplague.com/blog/2014/04/18/start</id>
-    <content type="html"><![CDATA[<p>Everything must attempt to start somewhere.</p>
-
-<!-- more -->
-
-
-<p>What is this? What am I doing here?</p>
-
-<p>This is another blog.
-Nothing more and nothing less.
-I only intend for this to be a place to capture and share some of my thoughts and musings.</p>
 ]]></content>
   </entry>
   
